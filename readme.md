@@ -1,14 +1,24 @@
 https://vuejs.org/
+
 https://cordova.apache.org/
+
 https://www.electron.build/cli
+
 https://developer.android.com/studio
+
 https://www.oracle.com/de/java/technologies/javase/javase-jdk8-downloads.html
+
 http://bugmenot.com/view/oracle.com
+
 https://gradle.org/install/
 
+
 https://www.npmjs.com/package/electron
+
 https://www.npmjs.com/package/electron-builder
+
 https://www.npmjs.com/search?q=cordova
+
 
 https://materializecss.com/
 
@@ -36,4 +46,5 @@ electron-build -mwl
 
 
 https://www.npmjs.com/package/mysql
+
 https://www.npmjs.com/package/mysql-events
