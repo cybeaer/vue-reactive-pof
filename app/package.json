@@ -1,0 +1,32 @@
+{
+  "name": "Vue realtime reactive poc",
+  "displayName": "Vpoc",
+  "version": "1.0.0",
+  "description": "Vue App with realtime reactive components - proof of concept",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Michael Attenberger <attenberger@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cordova-android": "^9.1.0",
+    "cordova-plugin-whitelist": "^1.3.4",
+    "electron": "^12.0.6",
+    "electron-builder": "^22.10.5"
+  },
+  "build":{
+    "asar": "false"
+  },
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-whitelist": {}
+    },
+    "platforms": [
+      "android"
+    ]
+  }
+}
