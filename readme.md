@@ -25,21 +25,29 @@ https://materializecss.com/
 C:\Users\user\AppData\Local\Android\Sdk\tools\bin
 
 npm install -g cordova 
+
 npm install -g electron 
+
 npm install -g electron-build
 
 cordova create app
 
 cd app
+
 npm install -D electron 
+
 npm install -D electron-build
 
 cordova platform add ios
+
 cordova run ios
+
 cordova build ios
 
 cordova platform add android
+
 cordova run android
+
 cordova build android 
 
 electron-build -mwl
